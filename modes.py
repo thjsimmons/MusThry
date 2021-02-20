@@ -36,7 +36,7 @@ def deg2num(deg): # interval name to semitone
 def degs2nums(degrees): # interval names to semitones
     return [deg2num(deg) for deg in degrees]
 
-def num2deg(N): # return one the 12 interval names
+def num2deg(N): # return one of the 12 interval names
     return ['1','b2','2','b3','3','4','b5','5','b6','6','b7','7'][N]
 
 def nums2degs(nums): # convert degree names to list of semitones
