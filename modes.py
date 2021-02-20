@@ -89,6 +89,6 @@ def main(): # Get user's scale and print its modes:
                 count += 1
 
             repeat = False
-    return 0
 
-main()
+if __name__ == '__main__':
+    main()
