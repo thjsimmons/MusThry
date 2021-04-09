@@ -1,4 +1,4 @@
-# MusThry
+# MusicTheory
 Music theory scripts: generating scale modes, etc. 
 
 ### modes.py output:
